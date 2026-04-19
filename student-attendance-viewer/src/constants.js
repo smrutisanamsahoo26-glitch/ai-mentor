@@ -1,7 +1,4 @@
-// Attendance configuration
 export const ATTENDANCE_THRESHOLD = 75;
-
-// Student data for generating 30 students
 export const FIRST_NAMES = [
   "Alex",
   "Jordan",
@@ -47,9 +44,5 @@ export const LAST_NAMES = [
   "Lee",
   "Wong",
 ];
-
-// API configuration
 export const API_URL = "https://jsonplaceholder.typicode.com/users";
-
-// Filter options
 export const FILTER_OPTIONS = ["All", "Present", "Absent"];

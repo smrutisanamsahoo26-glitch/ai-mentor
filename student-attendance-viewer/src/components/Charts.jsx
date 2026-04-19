@@ -17,7 +17,6 @@ export const ChartsSection = ({
   topStudentsData,
 }) => (
   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6 animate-slide-in">
-    {/* Pie Chart - Present vs Absent */}
     <div className="card p-6">
       <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-4">
         📊 Attendance Status Distribution
@@ -42,8 +41,6 @@ export const ChartsSection = ({
         </PieChart>
       </ResponsiveContainer>
     </div>
-
-    {/* Bar Chart - Attendance Distribution by Range */}
     <div className="card p-6">
       <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-4">
         📈 Attendance Range Distribution

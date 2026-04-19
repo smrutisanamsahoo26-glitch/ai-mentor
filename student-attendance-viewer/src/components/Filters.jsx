@@ -7,7 +7,6 @@ export const FilterBar = ({
   setSortToggle,
   showLowAttendance,
   setShowLowAttendance,
-  handleExport,
 }) => (
   <div className="card p-6 mb-6 animate-slide-in">
     <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-4">
@@ -46,14 +45,6 @@ export const FilterBar = ({
         }`}
       >
         ⚠️ Only &lt;{ATTENDANCE_THRESHOLD}%
-      </button>
-
-      <button
-        onClick={handleExport}
-        className="px-4 py-2 rounded-lg font-semibold bg-green-600 text-white hover:bg-green-700 transition sm:ml-auto"
-        title="Download attendance report as CSV"
-      >
-        ⬇️ Export CSV
       </button>
     </div>
   </div>
