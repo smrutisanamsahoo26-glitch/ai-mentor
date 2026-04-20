@@ -103,13 +103,6 @@ ai-student-mentor/
 | AI        | OpenAI GPT-3.5  |
 | Hosting   | Vercel          |
 
-## 📖 Documentation
-
-- **[COMPLETE_SETUP.md](./COMPLETE_SETUP.md)** - Full setup guide with architecture
-- **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - Quick copy-paste guide
-- **[DEPLOYMENT.md](./DEPLOYMENT.md)** - Deploy to Vercel step-by-step
-- **[VIVA_GUIDE.md](./VIVA_GUIDE.md)** - 30+ Q&A for presentations
-
 ## 🧪 Testing
 
 ```bash
@@ -248,14 +241,6 @@ AI: "Weak areas: Graphs, Dynamic Programming
 - Add gamification (badges)
 - Enable PDF uploads
 
-## 📞 Support
-
-Need help?
-
-1. Check [COMPLETE_SETUP.md](./COMPLETE_SETUP.md) for detailed guide
-2. See [QUICK_REFERENCE.md](./QUICK_REFERENCE.md) for copy-paste solutions
-3. Read [VIVA_GUIDE.md](./VIVA_GUIDE.md) for concept explanations
-4. Check browser console for errors (F12)
 
 ## 📝 License
 
