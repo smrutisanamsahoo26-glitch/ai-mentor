@@ -1,5 +1,8 @@
 # 🎓 AI Student Mentor
 
+live -> https://ai-mentor-stu.vercel.app/
+
+
 > **Your AI-Powered Study Companion for Engineering Students**
 
 An intelligent learning assistant that combines exam scheduling, AI tutoring, mood tracking, study timers, and analytics to help you ace your engineering courses.
