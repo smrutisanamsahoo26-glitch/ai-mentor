@@ -5,7 +5,7 @@ live -> https://ai-mentor-stu.vercel.app/
 
 > **Your AI-Powered Study Companion for Engineering Students**
 
-An intelligent learning assistant that combines exam scheduling, AI tutoring, mood tracking, study timers, and analytics to help you ace your engineering courses.It targets collage students who dont have much resource and are distracted , the ai mentor will act like a real human solving emotional ,academics and financial problems.
+An intelligent learning assistant that combines exam scheduling, AI tutoring, mood tracking and analytics to help you ace your engineering courses.It targets collage students who dont have much resource and are distracted , the ai mentor will act like a real human solving emotional ,academics and financial problems.
 
 ![React](https://img.shields.io/badge/React-18.0-blue?logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-12.12-orange?logo=firebase)
